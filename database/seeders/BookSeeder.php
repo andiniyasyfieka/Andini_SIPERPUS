@@ -18,8 +18,9 @@ class BookSeeder extends Seeder
             "author" => "Sasaki",
             "year" => 2023,
             "publisher" => "MangaDex",
-            "city" => => "Nihon",
+            "city" =>  "Nihon",
             "cover" => "Cover A",
+            "bookshelfs_id" => 1
         ]);
     }
 }
